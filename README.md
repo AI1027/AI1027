@@ -9,7 +9,7 @@
 <div align="center">
  <!-- Misión -->
   <p>
-    <strong>Software Engineer passionate about building simple solutions for complex problems</strong>
+    <strong>Software Developer passionate about building simple solutions for complex problems</strong>
   </p>
 
   <!-- Contacto -->
