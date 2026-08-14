@@ -28,7 +28,7 @@
         <h3>🚀 About Me</h3>
       </div>
       <p>
-        Software Engineer with <strong>4+ years of experience</strong> building scalable backend applications, distributed data processing systems, and cloud-native solutions. Passionate about solving complex problems with Python, designing robust architectures, and developing software that creates real business value.
+        Software Developer and Data Engineer with <strong>4+ years of experience</strong> building scalable backend applications, distributed data processing systems, and cloud-native solutions. Passionate about solving complex problems with Python, designing robust architectures, and developing software that creates real business value.
       </p>
     </td>
 
